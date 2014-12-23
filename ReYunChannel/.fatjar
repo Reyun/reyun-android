@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Dec 19 11:23:37 CST 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=ReYunChannel.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|ReYunChannel>~com/~reyun/~reyunchannel/~MainActivity.class;<po|ReYunChannel>~com/~reyun/~reyunchannel/~R$attr.class;<po|ReYunChannel>~com/~reyun/~reyunchannel/~R$dimen.class;<po|ReYunChannel>~com/~reyun/~reyunchannel/~R$drawable.class;<po|ReYunChannel>~com/~reyun/~reyunchannel/~R$id.class;<po|ReYunChannel>~com/~reyun/~reyunchannel/~R$layout.class;<po|ReYunChannel>~com/~reyun/~reyunchannel/~R$menu.class;<po|ReYunChannel>~com/~reyun/~reyunchannel/~R$string.class;<po|ReYunChannel>~com/~reyun/~reyunchannel/~R$style.class;<po|ReYunChannel>~com/~reyun/~reyunchannel/~R.class;<jar|android-support-v4.jar>
+includes=
